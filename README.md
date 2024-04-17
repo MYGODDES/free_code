@@ -9,6 +9,7 @@ pip install DrissionPage==4.0.0b2
 
 ## facebook所需环境
 ```
+pip install requests
 pip install pandas
 pip install openpyxl
 pip install lxml
